@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Personalpage</string>
+    <string name="current">Học Công nghệ thông tin tại<b> Trường đại học công nghiệp Hà Nội</b></string>
+    <string name="past">Đã học tại <b>Trường THPT Mỹ Đức A</b></string>
+</resources>
